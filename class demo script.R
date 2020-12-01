@@ -347,7 +347,7 @@ colnames(statusDat) <- c("Acc","Sal") #change name of the columns
 statusDat
 names(statusDat) <- c("AccLevel","SalScale") #same as above
 statusDat
-colnames(statusDat )[2] <- c("IncScale") #To change individual variable names
+colnames(statusDat)[2] <- c("IncScale") #To change individual variable names
 statusDat
 
     # Adding Elements to a Data Frame
